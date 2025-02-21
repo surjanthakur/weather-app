@@ -28,7 +28,7 @@ body {
 }
 
 .weather-icon {
-  font-size: 50px;
+  font-size: 60px;
   margin: 10px 0;
 }
 .temperature {
@@ -46,7 +46,7 @@ body {
   opacity: 0.8;
 }
 
-.search-container {
+.search {
   position: relative;
   display: flex;
   align-items: center;
